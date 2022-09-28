@@ -1,5 +1,5 @@
-## neoG-markSix-bananaTransalation
-Creating a application where we taking input and translating it to minion languague.
+## neoG-markSix-DogeTranslation
+Creating a application where we taking input and translating it to doge languague.
 
 ## Technology Used:
 * HTML
@@ -8,4 +8,4 @@ Creating a application where we taking input and translating it to minion langua
 * API from [fun translations](https://funtranslations.com/)
 
 ## Live Project
-[BananaTranslation](https://minionspeaktranslations.netlify.app/)
+[DogeTranslation](https://minionspeaktranslations.netlify.app/)
