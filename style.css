@@ -2,9 +2,9 @@
 
 
 :root{
-    --primary-color:grey;
+    --primary-color:white;
     --border-color:black;
-    --button-color:#F7D716;
+    --button-color:blueviolet;
     --error-color:red;
     --text-color:#293462;
 
@@ -84,7 +84,7 @@ button {
     margin: auto;
     height: 450px;
     width: 850px;
-    background-color: rgb(112, 133, 141);
+    background-color:white;
     border-radius: 10px;
     /* box-shadow: 5px 5px 25px var(--button-color); */
 }
