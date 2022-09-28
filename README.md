@@ -1,4 +1,4 @@
-## neoG-markSix-DogeTranslation
+## neoG-mark7-DogeTranslation
 Creating a application where we taking input and translating it to doge languague.
 
 ## Technology Used:
